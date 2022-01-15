@@ -13,37 +13,24 @@
 
 <!--ここからが表現の書式などを決めるcssという部分-->
 
-<style type="text/css">
- p {
-color: #ffffff;
+  p {
+color: #fffafa;
 font-size: 1.5em;
  }
 
-<!--
  .red {color:#ff0000;}
- .grey {color:#ffffff; background:#999999;}
+ .grey {color:#999999;}
+ .snow {color:#fffafa;}
  .yellow {color:#ff0000; background:#ffff00;}
  .blue {color:#0000ff;}
+ .white {color:#ffffff; blinking;}
  .waku {border:2px dotted #99cc66;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
- -->
- 
 
-/* テキスト表示
------------------------------------------------------------ */
-#tooltip{
-	position: absolute;
-	border: 3px solid #333;
-	background: #444;
-	padding: 5px;
-	color: #FFF;
-	display:none;
-}
-/* 画像表示
------------------------------------------------------------ */
-#preview{
-	position: absolute;
+	
+ #preview{
+	position: relative;
 	border: 3px solid #333;
 	background: #444;
 	padding: 5px;
@@ -51,16 +38,10 @@ font-size: 1.5em;
 	color: #FFF;
 	text-align: center;
 }
-/* URLプレビュー
------------------------------------------------------------ */
-#screenshot{
-	position: absolute;
-	border: 3px solid #333;
-	background: #444;
-	padding: 5px;
-	display: none;
-	color: #FFF;
-	text-align: center;
+
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
 }
 
 
