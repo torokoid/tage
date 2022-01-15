@@ -3,21 +3,16 @@
 <html>
 <head>
 
-<meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<!--ここから上はお決まりの定型文です-->
-
-
-<!--ここからが表現の書式などを決めるcssという部分-->
+<html lang="ja">
+ <head>
+  <meta charset="utf-8" />
+<style type="text/css">
 
   p {
 color: #fffafa;
 font-size: 1.5em;
  }
-
+<!--
  .red {color:#ff0000;}
  .grey {color:#999999;}
  .snow {color:#fffafa;}
@@ -27,43 +22,48 @@ font-size: 1.5em;
  .waku {border:2px dotted #99cc66;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
+ -->
 
-	
  #preview{
-	position: relative;
-	border: 3px solid #333;
-	background: #444;
-	padding: 5px;
-	display: none;
-	color: #FFF;
-	text-align: center;
+position: relative;
+border: 3px solid #333;
+background: #444;
+padding: 5px;
+display: none;
+color: #FFF;
+text-align: center;
+}
+
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/tage/20220115_016.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
+
+
+body {
+background-color: rgba(0, 225, 0, 0.4); 
+}
+section {
+background-color: rgba(0, 225, 0, 0.8);
 }
 
 @media	screen and (min-width: 540px),
-	screen and (orientation: landscape) {
+screen and (orientation: landscape) {
    p.note { display: none; }
 }
 
 
-body { background-color: #ccffcc; }
-#wrap {background:none} /*PC用の背景はオフ*/
 
-/*背景を表示させる部分*/
-body::before {
-content:"";
-display:block;
-position:fixed;
-top:0;
-left:0;
-z-index:-1;
-width:100%;
-height:100vh;
-background:url(https://torokoid.github.io/tage/20220115_016.JPG) center/cover no-repeat;
--webkit-background-size:cover;/*Android4*/
-}
-
-
-</style>
+</style> 
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
