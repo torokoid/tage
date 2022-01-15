@@ -62,27 +62,6 @@ background:url(https://torokoid.github.io/tage/20220115_016.JPG) center/cover no
 -webkit-background-size:cover;/*Android4*/
 }
 
-a.p:hover {
-position: relative;
-text-decoration: none;
-}
-a.p span {
-display: none;
-position: relative;
-top: -0.5em;
-left: 2em;
-}
-a.p:hover span {
-border: none;
-display: block;
-width: 800px;
-}
-
-
-@media
-
-p.note { display: none; }
-}
 
 </style>
 
