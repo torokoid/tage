@@ -105,9 +105,10 @@ screen and (orientation: landscape) {
 
 <h2><span class="blue">境内の麓にも、お参りポイントが有ります。</span></h2>
 <a href="20220115_029.JPG" data-lightbox="abc"><img src="20220115_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220115_003.JPG" data-lightbox="abc"><img src="20220115_003.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">コロナ対策で柄杓が無くなった、お清めの水。</span></h2>
 <a href="20220115_027.JPG" data-lightbox="abc"><img src="20220115_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220115_003.JPG" data-lightbox="abc"><img src="20220115_003.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="20220115_004.JPG" data-lightbox="abc"><img src="20220115_004.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">この長い階段を登って、お参りです。</span></h2>
 <!--
