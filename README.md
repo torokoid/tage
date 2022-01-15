@@ -87,7 +87,7 @@ screen and (orientation: landscape) {
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/01/15 宇都宮ハムセンターのノード局に無線接続、横浜の門OMと交信しながら、多気山お参り !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/01/15 多気山お参り、移動しながら宇都宮ハムセンターのノード局に無線接続、横浜の門OMと交信しました。 !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
@@ -145,7 +145,7 @@ screen and (orientation: landscape) {
 <a href="20220115_024.JPG" data-lightbox="abc"><img src="20220115_024.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">お守りの授与所も開設されていました。</span></h2>
 <a href="20220115_025.JPG" data-lightbox="abc"><img src="20220115_025.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">存在感の際立つ仏像様。</p>
+<h2><span class="blue">存在感の際立つ仏像様。</span></h2>
 <a href="20220115_026.JPG" data-lightbox="abc"><img src="20220115_026.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">不動尊の修行僧や職員たちの宿泊施設でしょうか。</span></h2>
 <a href="20220115_028.JPG" data-lightbox="abc"><img src="20220115_028.JPG" alt="サンプル画像" width="900" /></a>
