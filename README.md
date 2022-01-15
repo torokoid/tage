@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20210704_Utsunomiya_swim/20210704_002.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20220115_tage/20220115_016.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -125,42 +125,67 @@ p.note { display: none; }
 
 
 <!--ここから下が、本体部分-->
+ <!--
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
-動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
+動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>-->
 
 
 
-<br><br><p>50_Free, 4コースじゅりちゃん１位！</p>
-<a href="20220115_001.JPG" data-lightbox="abc"><img src="20220115_001.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_002.JPG" data-lightbox="abc"><img src="20220115_002.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_003.JPG" data-lightbox="abc"><img src="20220115_003.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_004.JPG" data-lightbox="abc"><img src="20220115_004.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_005.JPG" data-lightbox="abc"><img src="20220115_005.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_006.JPG" data-lightbox="abc"><img src="20220115_006.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_007.JPG" data-lightbox="abc"><img src="20220115_007.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_008.JPG" data-lightbox="abc"><img src="20220115_008.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_009.JPG" data-lightbox="abc"><img src="20220115_009.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_010.JPG" data-lightbox="abc"><img src="20220115_010.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_011.JPG" data-lightbox="abc"><img src="20220115_011.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_012.JPG" data-lightbox="abc"><img src="20220115_012.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_013.JPG" data-lightbox="abc"><img src="20220115_013.JPG" alt="サンプル画像" width="450" /></a>
-<a href="20220115_014.JPG" data-lightbox="abc"><img src="20220115_014.JPG" alt="サンプル画像" width="450" /></a>
+<br><br><p>多気山に向かう道の前には、冬の男体山が見事に見えました。</p>
+<a href="20220115_001.JPG" data-lightbox="abc"><img src="20220115_001.JPG" alt="サンプル画像" width="900" /></a>
+<p>多気不動尊に到着。</p>
+<a href="20220115_002.JPG" data-lightbox="abc"><img src="20220115_002.JPG" alt="サンプル画像" width="900" /></a>
+<p>コロナ対策で柄杓が無くなった、お清めの水。</p>
+<a href="20220115_027.JPG" data-lightbox="abc"><img src="20220115_027.JPG" alt="サンプル画像" width="900" /></a>
+<p>境内の麓にも、お参りポイントが有ります。</p>
+<a href="20220115_029.JPG" data-lightbox="abc"><img src="20220115_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220115_003.JPG" data-lightbox="abc"><img src="20220115_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220115_004.JPG" data-lightbox="abc"><img src="20220115_004.JPG" alt="サンプル画像" width="900" /></a>
+<p>この長い階段を登って、お参りです。</p>
+<a href="20220115_005.JPG" data-lightbox="abc"><img src="20220115_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220115_006.JPG" data-lightbox="abc"><img src="20220115_006.JPG" alt="サンプル画像" width="900" /></a>
+<p>階段の途中で垣間見えた、中腹の水子地蔵尊。<br>斜面全体が不動尊の境内になっていて、谷の向こうに下りの通路が見えます。</p>
+<a href="20220115_007.JPG" data-lightbox="abc"><img src="20220115_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220115_008.JPG" data-lightbox="abc"><img src="20220115_008.JPG" alt="サンプル画像" width="900" /></a>
+<p>階段を登りきって、下を振り返ったところ。<br>よく登りました。</p>
+<a href="20220115_009.JPG" data-lightbox="abc"><img src="20220115_009.JPG" alt="サンプル画像" width="900" /></a>
+<p>境内の淵から、下界が見渡せます。</p>
+<a href="20220115_010.JPG" data-lightbox="abc"><img src="20220115_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<a href="20220115_012.JPG" data-lightbox="abc"><img src="20220115_012.JPG" alt="サンプル画像" width="900" /></a>
+<p>下に見える道の辺りで、門さんとの通信が復帰しました。</p>
+<a href="20220115_013.JPG" data-lightbox="abc"><img src="20220115_013.JPG" alt="サンプル画像" width="900" /></a>
+<p>多気不動尊です。</p>
+<a href="20220115_014.JPG" data-lightbox="abc"><img src="20220115_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_015.JPG" data-lightbox="abc"><img src="20220115_015.JPG" alt="サンプル画像" width="900" /></a>
+<p>背景にもなっている、不動尊とお地蔵さん。</p>
 <a href="20220115_016.JPG" data-lightbox="abc"><img src="20220115_016.JPG" alt="サンプル画像" width="900" /></a>
+<p>こちらにもお賽銭を入れて、鐘をつきます。</p>
 <a href="20220115_017.JPG" data-lightbox="abc"><img src="20220115_017.JPG" alt="サンプル画像" width="900" /></a>
+<p>下り道の途中に、山頂への分岐点。</p>
 <a href="20220115_018.JPG" data-lightbox="abc"><img src="20220115_018.JPG" alt="サンプル画像" width="900" /></a>
+<p>寒いので今回はパスでした。</p>
 <a href="20220115_019.JPG" data-lightbox="abc"><img src="20220115_019.JPG" alt="サンプル画像" width="900" /></a>
+<p>階段の途中から見えた、水子地蔵。</p>
 <a href="20220115_020.JPG" data-lightbox="abc"><img src="20220115_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220115_021.JPG" data-lightbox="abc"><img src="20220115_021.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20220115_021.JPG" data-lightbox="abc"><img src="20220115_021.JPG" alt="サンプル画像" width="900" /></a>-->
+<p>あどけなさが表現されたお顔です。</p>
 <a href="20220115_022.JPG" data-lightbox="abc"><img src="20220115_022.JPG" alt="サンプル画像" width="900" /></a>
+<p>下り道の途中にも、不動尊が点在。</p>
 <a href="20220115_023.JPG" data-lightbox="abc"><img src="20220115_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_024.JPG" data-lightbox="abc"><img src="20220115_024.JPG" alt="サンプル画像" width="900" /></a>
+<p>お守りの授与所も開設されていました。</p>
 <a href="20220115_025.JPG" data-lightbox="abc"><img src="20220115_025.JPG" alt="サンプル画像" width="900" /></a>
+<p>存在感の際立つ仏像様。</p>
 <a href="20220115_026.JPG" data-lightbox="abc"><img src="20220115_026.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220115_027.JPG" data-lightbox="abc"><img src="20220115_027.JPG" alt="サンプル画像" width="900" /></a>
+<p>不動尊の修行僧や職員たちの宿泊施設でしょうか。</p>
 <a href="20220115_028.JPG" data-lightbox="abc"><img src="20220115_028.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220115_029.JPG" data-lightbox="abc"><img src="20220115_029.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220115_030.JPG" data-lightbox="abc"><img src="20220115_030.JPG" alt="サンプル画像" width="900" /></a>
+<p>厄年の年齢が、神社と一年ずれていました。</p>
+<a href="20220115_011.JPG" data-lightbox="abc"><img src="20220115_011.JPG" alt="サンプル画像" width="900" /></a>
+<p>最後になりましたが、門さんと交信しながら通ったルート。<br>途中の通信困難エリアがノード局との山越えになっているのがわかります。</p>
+
+<a href="20220115_030.png" data-lightbox="abc"><img src="20220115_030.png" alt="サンプル画像" width="900" /></a>
 
 <!--本体はここまで-->
 
@@ -172,7 +197,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-Copyright 2021/07/04 S.Hada
+Copyright 2022/01/15 S.Hada
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
