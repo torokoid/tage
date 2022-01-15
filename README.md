@@ -110,7 +110,8 @@ screen and (orientation: landscape) {
 <a href="20220115_027.JPG" data-lightbox="abc"><img src="20220115_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_004.JPG" data-lightbox="abc"><img src="20220115_004.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">この長い階段を登って、お参りです。</span></h2>
-<a href="20220115_005.JPG" data-lightbox="abc"><img src="20220115_005.JPG" alt="サンプル画像" width="900" /></a>
+<!--
+<a href="20220115_005.JPG" data-lightbox="abc"><img src="20220115_005.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20220115_006.JPG" data-lightbox="abc"><img src="20220115_006.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">階段の途中で垣間見えた、中腹の水子地蔵尊。<br>斜面全体が不動尊の境内になっていて、谷の向こうに下りの通路が見えます。</span></h2>
 <a href="20220115_007.JPG" data-lightbox="abc"><img src="20220115_007.JPG" alt="サンプル画像" width="900" /></a>
