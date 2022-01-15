@@ -14,51 +14,57 @@
 <!--ここからが表現の書式などを決めるcssという部分-->
 
 <style type="text/css">
-p {
+ p {
 color: #ffffff;
 font-size: 1.5em;
+ }
+
+<!--
+ .red {color:#ff0000;}
+ .grey {color:#ffffff; background:#999999;}
+ .yellow {color:#ff0000; background:#ffff00;}
+ .blue {color:#0000ff;}
+ .waku {border:2px dotted #99cc66;
+　　　　　　line-height: 200%;
+　　　　　　padding: 10px;}
+ -->
+ 
+
+/* テキスト表示
+----------------------------------------------------------- */
+#tooltip{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	color: #FFF;
+	display:none;
+}
+/* 画像表示
+----------------------------------------------------------- */
+#preview{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	display: none;
+	color: #FFF;
+	text-align: center;
+}
+/* URLプレビュー
+----------------------------------------------------------- */
+#screenshot{
+	position: absolute;
+	border: 3px solid #333;
+	background: #444;
+	padding: 5px;
+	display: none;
+	color: #FFF;
+	text-align: center;
 }
 
 
-.red {color:#ff0000;}
-.grey {color:#ffffff; background:#999999;}
-.snow {color:#fffafa;}
-.yellow {color:#ff0000; background:#ffff00;}
-.blue {color:#0000ff;}
-.white {color:#ffffff; blinking;}
-.waku {border:2px dotted #99cc66;
-line-height: 200%;
-padding: 10px;}
-
-
-main {
-background-color: rgba(255, 255, 255, 0.5);
-}
-
-section {
-background-color: rgba(0, 225, 0, 0.3);
-}
-
-
-/* 点滅 */
-.blinking{
-
--moz-animation:blink 1.5s ease-in-out infinite alternate;
-animation:blink 1.5s ease-in-out infinite alternate;
-}
-@-webkit-keyframes blink{
-0% {opacity:0;}
-100% {opacity:1;}
-}
-@-moz-keyframes blink{
-0% {opacity:0;}
-100% {opacity:1;}
-}
-@keyframes blink{
-0% {opacity:0;}
-100% {opacity:1;}
-}
-
+body { background-color: #ccffcc; }
 #wrap {background:none} /*PC用の背景はオフ*/
 
 /*背景を表示させる部分*/
