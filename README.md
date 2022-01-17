@@ -98,62 +98,62 @@ screen and (orientation: landscape) {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <br><br>
-<h2><span class="blue">多気山に向かう道の前には、冬の男体山が見事に見えました。<br>この辺りまでは問題なく交信できてましたが、この後途切れ途切れに・・・。</span></h2>
+<h2><span class="yellow">多気山に向かう道の前には、冬の男体山が見事に見えました。<br>この辺りまでは問題なく交信できてましたが、この後途切れ途切れに・・・。</span></h2>
 <a href="20220115_001.JPG" data-lightbox="abc"><img src="20220115_001.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">多気不動尊に到着。</span></h2>
+<h2><span class="yellow">多気不動尊に到着。</span></h2>
 <a href="20220115_002.JPG" data-lightbox="abc"><img src="20220115_002.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="blue">境内の麓にも、お参りポイントが有ります。</span></h2>
+<h2><span class="yellow">境内の麓にも、お参りポイントが有ります。</span></h2>
 <a href="20220115_029.JPG" data-lightbox="abc"><img src="20220115_029.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">コロナ対策で柄杓が無くなった、お清めの水。</span></h2>
+<h2><span class="yellow">コロナ対策で柄杓が無くなった、お清めの水。</span></h2>
 <a href="20220115_027.JPG" data-lightbox="abc"><img src="20220115_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_003.JPG" data-lightbox="abc"><img src="20220115_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20220115_004.JPG" data-lightbox="abc"><img src="20220115_004.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">この長い階段を登って、お参りです。</span></h2>
+<h2><span class="yellow">この長い階段を登って、お参りです。</span></h2>
 <!--
 <a href="20220115_005.JPG" data-lightbox="abc"><img src="20220115_005.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20220115_006.JPG" data-lightbox="abc"><img src="20220115_006.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">階段の途中で垣間見えた、中腹の水子地蔵尊。<br>斜面全体が不動尊の境内になっていて、谷の向こうに下りの通路が見えます。</span></h2>
+<h2><span class="yellow">階段の途中で垣間見えた、中腹の水子地蔵尊。<br>斜面全体が不動尊の境内になっていて、谷の向こうに下りの通路が見えます。</span></h2>
 <a href="20220115_007.JPG" data-lightbox="abc"><img src="20220115_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_008.JPG" data-lightbox="abc"><img src="20220115_008.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">階段を登りきって、下を振り返ったところ。<br>よく登りました。</span></h2>
+<h2><span class="yellow">階段を登りきって、下を振り返ったところ。<br>よく登りました。</span></h2>
 <a href="20220115_009.JPG" data-lightbox="abc"><img src="20220115_009.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">境内の淵から、下界が見渡せます。</span></h2>
+<h2><span class="yellow">境内の淵から、下界が見渡せます。</span></h2>
 <a href="20220115_010.JPG" data-lightbox="abc"><img src="20220115_010.JPG" alt="サンプル画像" width="900" /></a>
 
 <a href="20220115_012.JPG" data-lightbox="abc"><img src="20220115_012.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">下に見える道の辺りで、門さんとの通信が復帰しました。</span></h2>
+<h2><span class="yellow">下に見える道の辺りで、門さんとの通信が復帰しました。</span></h2>
 <a href="20220115_013.JPG" data-lightbox="abc"><img src="20220115_013.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">多気不動尊です。</span></h2>
+<h2><span class="yellow">多気不動尊です。</span></h2>
 <a href="20220115_014.JPG" data-lightbox="abc"><img src="20220115_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_015.JPG" data-lightbox="abc"><img src="20220115_015.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">背景にもなっている、不動尊とお地蔵さん。</span></h2>
+<h2><span class="yellow">背景にもなっている、不動尊とお地蔵さん。</span></h2>
 <a href="20220115_016.JPG" data-lightbox="abc"><img src="20220115_016.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">こちらにもお賽銭を入れて、鐘をつきます。</span></h2>
+<h2><span class="yellow">こちらにもお賽銭を入れて、鐘をつきます。</span></h2>
 <a href="20220115_017.JPG" data-lightbox="abc"><img src="20220115_017.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">下り道の途中に、山頂への分岐点。</span></h2>
+<h2><span class="yellow">下り道の途中に、山頂への分岐点。</span></h2>
 <a href="20220115_018.JPG" data-lightbox="abc"><img src="20220115_018.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">寒いので今回はパスでした。</span></h2>
+<h2><span class="yellow">寒いので今回はパスでした。</span></h2>
 <a href="20220115_019.JPG" data-lightbox="abc"><img src="20220115_019.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">階段の途中から見えた、水子地蔵。</span></h2>
+<h2><span class="yellow">階段の途中から見えた、水子地蔵。</span></h2>
 <a href="20220115_020.JPG" data-lightbox="abc"><img src="20220115_020.JPG" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20220115_021.JPG" data-lightbox="abc"><img src="20220115_021.JPG" alt="サンプル画像" width="900" /></a>-->
-<h2><span class="blue">あどけなさが表現されたお顔です。</span></h2>
+<h2><span class="yellow">あどけなさが表現されたお顔です。</span></h2>
 <a href="20220115_022.JPG" data-lightbox="abc"><img src="20220115_022.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">下り道の途中には、足尾大権現堂。</span></h2>
+<h2><span class="yellow">下り道の途中には、足尾大権現堂。</span></h2>
 <a href="20220115_023.JPG" data-lightbox="abc"><img src="20220115_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220115_024.JPG" data-lightbox="abc"><img src="20220115_024.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">お守りの授与所も開設されていました。</span></h2>
+<h2><span class="yellow">お守りの授与所も開設されていました。</span></h2>
 <a href="20220115_025.JPG" data-lightbox="abc"><img src="20220115_025.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">存在感の際立つ仏像様。</span></h2>
+<h2><span class="yellow">存在感の際立つ仏像様。</span></h2>
 <a href="20220115_026.JPG" data-lightbox="abc"><img src="20220115_026.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">不動尊の修行僧や職員たちの宿泊施設でしょうか。</span></h2>
+<h2><span class="yellow">不動尊の修行僧や職員たちの宿泊施設でしょうか。</span></h2>
 <a href="20220115_028.JPG" data-lightbox="abc"><img src="20220115_028.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">厄年の年齢が、神社と一年ずれていました。</span></h2>
+<h2><span class="yellow">厄年の年齢が、神社と一年ずれていました。</span></h2>
 <a href="20220115_011.JPG" data-lightbox="abc"><img src="20220115_011.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">最後になりましたが、門さんと交信しながら通ったルート。<br>途中の通信困難エリアがノード局との山越えになっているのがわかります。</span></h2>
+<h2><span class="yellow">最後になりましたが、門さんと交信しながら通ったルート。<br>途中の通信困難エリアがノード局との山越えになっているのがわかります。</span></h2>
 
 <a href="20220115_030.png" data-lightbox="abc"><img src="20220115_030.png" alt="サンプル画像" width="900" /></a>
 
